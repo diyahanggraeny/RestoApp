@@ -6,4 +6,7 @@ Terdapat 3 aktor dalam aplikasi ini :
 2. Admin: dapat melihat menu, memverifikasi menu, melihat data pesanan
 3. Customer : dapat melihat menu makanan, dapat memesan makanan.
 
-Cara berjalan aplikasi ini dimulai dari customer. Customer langsung login jika sudah memiliki account atau daftar terlebih dahulu. Dapat juga melihat menu terlebih dahulu lalu log in jika ingin memesan. Setelah customer memilih makanan maka dapat langsung diproses oleh pihak restoran.   
+Cara berjalan aplikasi ini :
+1. Setiap user harus login dengan akun jika sudah terdaftar atau sign up jika belum terdaftar.
+2. Untuk customer, setiap customer bisa melihat menu saja jika tidak ingin memesan. Jika ingin memesan, harus memiliki akun yang terdaftar.
+3. Aplikasi ini hanya melayani pembayaran via cash.
