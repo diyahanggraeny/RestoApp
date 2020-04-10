@@ -1,5 +1,5 @@
 # RestoApp
-Aplikasi ini merupakan aplikasi untuk membeli produk makanan secara online. Dalam aplikasi ini dibuat untuk sebuah perusahaan makanan yang disebut family roasted chicken.
+Aplikasi ini merupakan aplikasi untuk manajemen data pembeli dalam sebuah restoran . Dalam aplikasi ini dibuat untuk sebuah perusahaan makanan yang disebut family roasted chicken.
 
 Terdapat 3 aktor dalam aplikasi ini :
 1. Karyawan restoran: dapat melihat menu, mengubah menu, menerima pesanan, dan melihat data pesanan
