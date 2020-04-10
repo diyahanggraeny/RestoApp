@@ -6,7 +6,7 @@ Hal yang Dibutuhkan :
 2. Apache Cassandra
 
 Cara Menggunakan :
-1. Jalankan file main.py untuk memulai aplikasi
-2. Login dengan akun yang ada atau sign up jika belum terdaftar. Pilih menu yang diinginkan lalu order.
+1. Jalankan file main.py untuk memulai aplikasi.
+2. Login dengan akun yang ada.
 
 Adapun saya sadari masih banyak kekurangan dalam aplikasi ini dan masih harus dikerjakan lebih baik lagi untuk selanjutnya. Terima kasih.
