@@ -1,5 +1,5 @@
 # RestoApp
-Aplikasi ini merupakan aplikasi untuk membeli produk makanan secara online. Dalam aplikasi ini dibuat untuk sebuah perusahaan makanan yang disebut family roasted chicken.
+Aplikasi ini merupakan aplikasi untuk manajemen data pembeli dalam sebuah restoran . Dalam aplikasi ini dibuat untuk sebuah perusahaan makanan yang disebut family roasted chicken.
 
 Hal yang Dibutuhkan :
 1. Python 2
