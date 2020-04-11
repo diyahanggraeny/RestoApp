@@ -7,6 +7,6 @@ Hal yang Dibutuhkan :
 
 Cara Menggunakan :
 1. Jalankan file main.py untuk memulai aplikasi.
-2. Login dengan akun yang ada.
+2. Login dengan akun:user password:user untuk user, login dengan akun:admin password:admin untuk admin.
 
 Adapun saya sadari masih banyak kekurangan dalam aplikasi ini dan masih harus dikerjakan lebih baik lagi untuk selanjutnya. Terima kasih.
