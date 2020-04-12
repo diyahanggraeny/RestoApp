@@ -9,6 +9,6 @@ Cara Menggunakan :
 1. Jalankan file main.py untuk memulai aplikasi.
 2. Login dengan akun:user password:user untuk user, login dengan akun:admin password:admin untuk admin.
 
-Link Video :
+Link Video : https://youtu.be/KWT9z3RGL_k
 
 
