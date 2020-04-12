@@ -11,4 +11,4 @@ Cara Menggunakan :
 
 Link Video :
 
-Adapun saya sadari masih banyak kekurangan dalam aplikasi ini dan masih harus dikerjakan lebih baik lagi untuk selanjutnya. Terima kasih.
+
